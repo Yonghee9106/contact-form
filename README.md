@@ -1,7 +1,7 @@
 # Contact Form
 A simple contact form using HTML and CSS.
 
-# Feature
+# Features
 * Responsive UI
 * Modern & simple design
 * No library used
