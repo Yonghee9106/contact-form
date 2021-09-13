@@ -1,4 +1,4 @@
-# contact-form
+# Contact Form
 A simple contact form using HTML and CSS.
 
 # Feature
